@@ -1,0 +1,6 @@
+aws_resource_list
+banana.txt
+exercise
+github_repo_permission
+peanuts.txt
+s3-event-trigger
