@@ -91,10 +91,3 @@ ip_addr=$(hostname -I | awk '{print $1}')
 echo "ip: $ip_addr"
 ```
 
-## License
-
-MIT
-
-## Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
