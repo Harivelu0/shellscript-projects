@@ -2,8 +2,6 @@
 
 A feature-rich terminal-based typing game built entirely in Bash that helps users improve their typing skills through an engaging, interactive experience.
 
-![Bash Typing Game](https://via.placeholder.com/800x400.png?text=Bash+Typing+Game)
-
 ## Features
 
 - Interactive terminal-based UI with colorful graphics
@@ -16,11 +14,6 @@ A feature-rich terminal-based typing game built entirely in Bash that helps user
 - Real-time scoring and accuracy tracking
 - Timed gameplay (60-second challenges)
 - Attractive terminal UI with borders and color highlighting
-
-## Screenshots
-
-![Main Menu](https://via.placeholder.com/800x400.png?text=Main+Menu)
-![Gameplay](https://via.placeholder.com/800x400.png?text=Gameplay)
 
 ## Requirements
 
