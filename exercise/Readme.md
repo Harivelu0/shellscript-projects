@@ -86,5 +86,3 @@ The commands `ps`, `ps -ef`, `ps aux`, and `top` are all used in Linux to monito
 | `ps -ef`  | All processes | Full format | ❌ No | Shows PPID, UID |
 | `ps aux`  | All processes | BSD format | ❌ No | Shows CPU & memory usage |
 | `top`     | All processes | Dynamic | ✅ Yes | Interactive monitoring |
-
-Let me know if you need more details! 🚀
