@@ -2,7 +2,6 @@
 
 A lightweight command-line task scheduler for Unix-based systems that provides a user-friendly interface to manage cron jobs without requiring advanced knowledge of crontab syntax.
 
-![Bash Task Scheduler](https://via.placeholder.com/800x400.png?text=Bash+Task+Scheduler)
 
 ## Features
 
