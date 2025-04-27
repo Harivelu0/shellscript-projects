@@ -20,3 +20,5 @@ chmod 644 $BACKUP_FILE
 
 # Print success message
 echo "Log backup created: $BACKUP_FILE"
+
+#crontab command 0 2 * * * /home/labex/project/backup_logs.sh >> /home/labex/project/backup/backup.log 2>&1
